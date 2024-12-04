@@ -142,6 +142,16 @@ body{
     line-height: 1.5;
     font-size: 18px;
 }
+.lower-part .colton{
+    margin-bottom: 40px;
+}
+.lower-part .irene{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.lower-part .anne{
+    margin-top: 40px;
+}
 
 /* mobile view design */
 @media screen and (max-width: 1000px) {
@@ -193,5 +203,6 @@ body{
 
     .lower-part .profile {
         width: 100% !important;
+        margin: 0 !important;
     }
 }
